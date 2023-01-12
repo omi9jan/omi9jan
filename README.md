@@ -8,6 +8,7 @@ I'm a motivated and innovative aspiring fullstack web developer with hands-on ex
  <p>🌱 I’m currently learning MERN Stack Development</p>
  <p>💬 Ask me about HTML, CSS, React, JavaScript, Redux , DS-Algo</p>
  <p>📫 How to reach me: omikhupse09@gmail.com</p>
+ <p>📄 Know about my experiences : </p>
 </div>
 
 ⚡ Technologies
