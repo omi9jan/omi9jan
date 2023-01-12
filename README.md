@@ -6,7 +6,7 @@ I'm a motivated and innovative aspiring fullstack web developer with hands-on ex
 
 <div align="center">
  <p>🌱 I’m currently learning MERN Stack Development</p>
- <p>💬 Ask me about React, JavaScript, Redux , DS-Algo</p>
+ <p>💬 Ask me about HTML, CSS, React, JavaScript, Redux , DS-Algo</p>
  <p>📫 How to reach me: omikhupse09@gmail.com</p>
 </div>
 
@@ -37,10 +37,10 @@ I'm a motivated and innovative aspiring fullstack web developer with hands-on ex
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ludehsar&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludehsar&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.netlify.app/api?username=omi9jan&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.netlify.app/api/top-langs/?username=omi9jan&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ludehsar.ludehsar)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=omi9jan.omi9jan)
 
 
 🔗 Connect with me:
