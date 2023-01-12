@@ -1,10 +1,10 @@
                                                                 ### Hi there 👋 I'm Omkareshwari Khupse
                                                                 
                                                                 
- I'm a motivated and innovative aspiring fullstack web developer with hands-on experience in building websites with MERN stack and various web technologies including HTML, CSS, and JS. Passionate about implementing and launching new projects. Eager to learn new tech skills. Seeking a position in a dynamic organization to do technical and practical projects and to enhance and apply my skills.
+            I'm a motivated and innovative aspiring fullstack web developer with hands-on experience in building websites with MERN stack and various web technologies including HTML, CSS, and JS. Passionate about implementing and launching new projects. Eager to learn new tech skills. Seeking a position in a dynamic organization to do technical and practical projects and to enhance and apply my skills.
 
 [![Linkedin Badge](https://www.linkedin.com/in/omkareshwari-khupse-g5815/)
-[![Gmail Badge](https://img.shields.io/badge/-mdraanik12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdraanik12@gmail.com)](mailto:omikhupse09@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-omikhupse09@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:omikhupse09@gmail.com)](mailto:omikhupse09@gmail.com)
 
 
 - 🔭 I’m currently working on ...
