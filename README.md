@@ -11,8 +11,6 @@ I'm a motivated and innovative aspiring fullstack web developer with hands-on ex
  <p>📄 Know about my experiences : <a href="https://drive.google.com/file/d/1sWq6PiMpgg-5amhNnte8MNJ1Ls-sPoW9/view?usp=share_link">Resume</a></p>
 </div>
 
-<h2 align="center>⚡ Technologies </h2>
-
 <div align="center">
  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -36,26 +34,17 @@ I'm a motivated and innovative aspiring fullstack web developer with hands-on ex
 <div/>
 
 
-
-
-
 <div align="center">
  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=omi9jan&theme=highcontrast&ring=38EBDA)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omi9jan&layout=compact)](https://github.com/omi9jan/github-readme-stats)
-
-![Omkareshwari's GitHub stats](https://github-readme-stats.vercel.app/api?username=omi9jan&show_icons=true&theme=radical)
+ 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=omi9jan&theme=highcontrast&ring=38EBDA)](https://git.io/streak-stats)![Omkareshwari's GitHub stats](https://github-readme-stats.vercel.app/api?username=omi9jan&show_icons=true&theme=radical)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=omi9jan.omi9jan)
  
 <div/>
-
-
-
-
-🔗 Connect with me:
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omkareshwari-khupse-g5815/)](https://www.linkedin.com/in/omkareshwari-khupse-g5815/)
-[![Gmail Badge](https://img.shields.io/badge/-GMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:omikhupse09@gmail.com)](mailto:omikhupse09@gmail.com)
+ 
+Connect with me :
+ 
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omkareshwari-khupse-g5815/)](https://www.linkedin.com/in/omkareshwari-khupse-g5815/)  [![Gmail Badge](https://img.shields.io/badge/-GMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:omikhupse09@gmail.com)](mailto:omikhupse09@gmail.com)
 
