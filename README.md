@@ -2,7 +2,7 @@
  
 I'm a motivated and innovative aspiring fullstack web developer with hands-on experience in building websites with MERN stack and various web technologies including HTML, CSS, and JS. Passionate about implementing and launching new projects. Eager to learn new tech skills. Seeking a position in a dynamic organization to do technical and practical projects and to enhance and apply my skills.
    
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.netlify.app/?username=omi9jan" alt="omi9jan" /></a> </p> -->
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.netlify.app/?username=omi9jan" alt="omi9jan" /></a> </p>
 
 <div align="center">
  <p>🌱 I’m currently learning MERN Stack Development</p>
