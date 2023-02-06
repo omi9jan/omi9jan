@@ -39,7 +39,10 @@ I'm a motivated and innovative aspiring fullstack web developer with hands-on ex
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=omi9jan&theme=highcontrast&hide_border=true&stroke=FA5959&background=100606&border=63EB3A&ring=81EBC8&fire=EB930D)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.netlify.app/api/top-langs/?username=omi9jan&hide=TeX&layout=compact)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omi9jan&layout=compact)](https://github.com/omi9jan/github-readme-stats)
+
+![Omkareshwari's GitHub stats](https://github-readme-stats.vercel.app/api?username=omi9jan&show_icons=true&theme=radical)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=omi9jan.omi9jan)
 
