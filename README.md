@@ -1,15 +1,14 @@
 <h1 align="center">Hi👋 I'm Omkareshwari Khupse</h1>
  
 I'm a motivated and innovative aspiring fullstack web developer with hands-on experience in building websites with MERN stack and various web technologies including HTML, CSS, and JS. Passionate about implementing and launching new projects. Eager to learn new tech skills. Seeking a position in a dynamic organization to do technical and practical projects and to enhance and apply my skills.
-   
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.netlify.app/?username=omi9jan" alt="omi9jan" /></a> </p>
+  
 
 <div align="center">
  <p>🌱 I’m currently learning MERN Stack Development</p>
  <p>💬 Ask me about HTML, CSS, React, JavaScript, Redux , DS-Algo</p>
  <p>🎓 👨‍💻 All of my projects are available at: <a href="https://omi9jan.github.io">Portfolio</a></p>
  <p>📫 How to reach me: <a href="omikhupse09@gmail.com">omikhupse09@gmail.com</a></p>
- <p>📄 Know about my experiences : <a href="https://drive.google.com/file/d/1sWq6PiMpgg-5amhNnte8MNJ1Ls-sPoW9/view?usp=share_link">Resume</a></p>
+ <p>📄 Know about my experiences : <a href="https://drive.google.com/file/d/1PyqkYd9rr6aMAljVtccLqzVYy0M3OM-P/view?usp=share_link">Resume</a></p>
 </div>
 
 <div align="center">
