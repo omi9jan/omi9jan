@@ -38,7 +38,7 @@ I'm a motivated and innovative aspiring fullstack web developer with hands-on ex
 
 
 
-![Github Stats](https://github-readme-stats.netlify.app/api?username=omi9jan&count_private=true&show_icons=true&include_all_commits=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=omi9jan&theme=highcontrast&hide_border=true&stroke=FA5959&background=100606&border=63EB3A&ring=81EBC8&fire=EB930D)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.netlify.app/api/top-langs/?username=omi9jan&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=omi9jan.omi9jan)
