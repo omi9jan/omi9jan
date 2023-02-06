@@ -7,7 +7,7 @@ I'm a motivated and innovative aspiring fullstack web developer with hands-on ex
 <div align="center">
  <p>🌱 I’m currently learning MERN Stack Development</p>
  <p>💬 Ask me about HTML, CSS, React, JavaScript, Redux , DS-Algo</p>
- <p>🎓 👨‍💻 All of my projects are available at: <a href="https://omi9jan.github.io"></a></p>
+ <p>🎓 👨‍💻 All of my projects are available at: <a href="https://omi9jan.github.io">Portfolio</a></p>
  <p>📫 How to reach me: <a href="omikhupse09@gmail.com">omikhupse09@gmail.com</a></p>
  <p>📄 Know about my experiences : <a href="https://drive.google.com/file/d/1sWq6PiMpgg-5amhNnte8MNJ1Ls-sPoW9/view?usp=share_link">Resume</a></p>
 </div>
