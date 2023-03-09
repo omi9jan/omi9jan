@@ -16,23 +16,23 @@ I'm a motivated and innovative aspiring fullstack web developer with hands-on ex
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![React](https://img.shields.io/badge/-React-grey?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
 ![ChakraUI](https://img.shields.io/badge/-ChakraUI-00599C?style=flat-square&logo=ChakraUI)
-![NextJS](https://img.shields.io/badge/-NextJS-E10098?style=flat-square&logo=nextJS)
-![Cypress](https://img.shields.io/badge/-Cypress-311C87?style=flat-square&logo=apollo-cypress)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![NextJS](https://img.shields.io/badge/-NextJS-E10098?style=flat-square&logo=NextJS)
+![Cypress](https://img.shields.io/badge/-Cypress-311C87?style=flat-square&logo=apollo-Cypress)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=Typescript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-grey?style=flat-square&logo=bootstrap)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![ExpessJS](https://img.shields.io/badge/-ExpessJS-black?style=flat-square&logo=expressJS)
 ![VScode](https://img.shields.io/badge/-VScode-336791?style=flat-square&logo=VScode)
 ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
 ![Netlify](https://img.shields.io/badge/-Netlify-430098?style=flat-square&logo=Netlify)
  
 <div/>
-
+<!-- 
+ ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![ExpessJS](https://img.shields.io/badge/-ExpessJS-black?style=flat-square&logo=expressJS) -->
 
 <div align="center">
  
