@@ -8,7 +8,7 @@ I'm a motivated and innovative aspiring fullstack web developer with hands-on ex
  <p>💬 Ask me about HTML, CSS, React, JavaScript, Redux , DS-Algo</p>
  <p>👨‍💻 All of my projects deployed on: <a href="https://omi9jan.github.io">https://omi9jan.github.io</a></p>
  <p>📫 How to reach me: <a href="omikhupse09@gmail.com">omikhupse09@gmail.com</a></p>
- <p>📄 Know about my experiences : <a href="https://drive.google.com/file/d/1anumfhlZZRSk-tlAEfN4fv8LyOGgn19y/view?usp=share_link">Resume</a></p>
+ <p>📄 Know about my experiences : <a href="https://drive.google.com/file/d/1xCzrUjhRL0cv8HqRuY9I8Dsdqc4x7asy/view?usp=share_link">Resume</a></p>
 </div>
 
 <div align="center">
