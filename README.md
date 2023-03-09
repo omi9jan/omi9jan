@@ -22,7 +22,7 @@ I'm a motivated and innovative aspiring fullstack web developer with hands-on ex
 ![NextJS](https://img.shields.io/badge/-NextJS-E10098?style=flat-square&logo=NextJS)
 ![Cypress](https://img.shields.io/badge/-Cypress-311C87?style=flat-square&logo=apollo-Cypress)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=Typescript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-grey?style=flat-square&logo=bootstrap)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-E77U36?style=flat-square&logo=bootstrap)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![VScode](https://img.shields.io/badge/-VScode-336791?style=flat-square&logo=VScode)
 ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
